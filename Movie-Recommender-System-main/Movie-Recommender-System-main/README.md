@@ -11,13 +11,6 @@
 This project is a movie recommender system built using **Streamlit**. It lets users search for their favorite movies or get a **"Surprise Me"** suggestion. The app fetches live movie details—like posters, trailers, ratings, cast, and more—using the **TMDB API**. It also displays trending movies and tracks your recently viewed films. Simply put, it helps you discover movies that match your taste through an easy-to-use, interactive interface.
 
 <br> 
-
-## Live Demo
-
-Try out the Movie Recommender System! 👉🏻 [![Experience It! 🌟](https://img.shields.io/badge/Experience%20It!-blue)](https://movie-recommender-system-kazj3trrugdd2wk68rvpjc.streamlit.app/)
-
-<br>
-
 _Below is a preview of the Movie Recommender System in action. Enter a movie name to see similar movie suggestions! 👇🏻_
 
 <p align="center">
