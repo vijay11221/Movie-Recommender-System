@@ -454,6 +454,6 @@ with st.sidebar:
 st.markdown("<div style='border-top: 2px solid #eee; margin: 2rem 0;'></div>", unsafe_allow_html=True)
 st.markdown("""
     <div style='text-align: center; color: #888; padding: 10px; font-size: 1rem;'>
-          Made with ♥️ by  <strong>Mahinth sai</strong>
+          Made with ♥️ by  <strong>VIJAY REDDY</strong>
     </div>
 """, unsafe_allow_html=True)
